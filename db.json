@@ -1,0 +1,13 @@
+{
+  "expenses": [
+    {
+      "title": "Burger",
+      "amount": 800,
+      "category": "Food",
+      "date": "2026-06-04",
+      "method": "Cash",
+      "id": "pRPo_0LU6YU"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
